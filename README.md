@@ -7,7 +7,7 @@ List of books You dont know JS.
 ## 2) ✔✔✔✔✔
 ![image](https://user-images.githubusercontent.com/44378669/74474865-6ba24600-4eb7-11ea-9053-63d77329ee81.png)
 -----------------------------
-3)
+## 3)
 ![image](https://user-images.githubusercontent.com/44378669/74475006-a7d5a680-4eb7-11ea-8f30-787f9685adc2.png)
 -----------------------------
 ## 4) ✔✔✔✔✔
