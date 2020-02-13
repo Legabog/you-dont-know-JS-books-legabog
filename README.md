@@ -1,7 +1,7 @@
 # you-dont-know-JS-books-legabog
 List of books You dont know JS.
 -----------------------------
-##1) ✔✔✔✔✔
+## 1) ✔✔✔✔✔
 ![image](https://user-images.githubusercontent.com/44378669/74474741-23832380-4eb7-11ea-9dd4-7e9cba12b2e4.png)
 -----------------------------
 ##2) ✔✔✔✔✔
